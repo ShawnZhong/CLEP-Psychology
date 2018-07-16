@@ -1,0 +1,14 @@
+{
+  "name": "ap-macroeconomics",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnZhong/CLEP-Psychology.git"
+  },
+  "homepage": "https://github.com/ShawnZhong/CLEP-Psychology.git#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-meta": "^0.1.12",
+    "gitbook-plugin-sitemap": "^1.2.0",
+    "gitbook-plugin-ga": "2.0.0"
+  }
+}
