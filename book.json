@@ -1,10 +1,8 @@
 {
-	"gitbook": "4.0.0-alpha.0", 
 	"author": "Shawn Zhong <public@shawnzhong.com>",
 	"plugins": [
 		"meta",
-		"sitemap",
-		"ga"
+		"sitemap"
 	],
 	"pluginsConfig": {
 		"meta": {
@@ -13,9 +11,6 @@
 		},
 		"sitemap": {
 			"hostname": "https://psycho.shawnzhong.com/"
-		},
-		"ga": {
-			"token": "UA-51728620-1"
 		}
 	}
 }
