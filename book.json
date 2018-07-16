@@ -12,5 +12,8 @@
 		"sitemap": {
 			"hostname": "https://psycho.shawnzhong.com/"
 		}
+	},
+	"styles": {
+		"website": "styles/website.css"
 	}
 }
