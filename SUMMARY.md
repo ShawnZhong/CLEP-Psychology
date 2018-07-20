@@ -1,10 +1,6 @@
-# Your Book Title
+# CLEP Psychology
 
 * [1. History, Approaches, Methods](1. History, Approaches, Methods.md)
-* [10. Psychological Disorders & Health](10. Psychological Disorders & Health.md)
-* [11. Treatment of Psychological Disorders](11. Treatment of Psychological Disorders.md)
-* [12. Social Psychology](12. Social Psychology.md)
-* [13. Statistics, Tests and Measurements](13. Statistics, Tests and Measurements.md)
 * [2. Biological Bases of Behavior](2. Biological Bases of Behavior.md)
 * [3. Sensory and Perception](3. Sensory and Perception.md)
 * [4. States of Consciousness](4. States of Consciousness.md)
@@ -13,3 +9,7 @@
 * [7. Motivation and Emotion](7. Motivation and Emotion.md)
 * [8. Developmental Psychology](8. Developmental Psychology.md)
 * [9. Personality](9. Personality.md)
+* [10. Psychological Disorders & Health](10. Psychological Disorders & Health.md)
+* [11. Treatment of Psychological Disorders](11. Treatment of Psychological Disorders.md)
+* [12. Social Psychology](12. Social Psychology.md)
+* [13. Statistics, Tests and Measurements](13. Statistics, Tests and Measurements.md)
