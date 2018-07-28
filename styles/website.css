@@ -10,3 +10,6 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+ul {
+	margin-bottom: .85em !important;
+}
