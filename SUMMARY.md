@@ -1,4 +1,4 @@
-# CLEP Psychology
+* [Introduction](README.md)
 
 * [1. History, Approaches, Methods](1. History, Approaches, Methods.md)
 * [2. Biological Bases of Behavior](2. Biological Bases of Behavior.md)
