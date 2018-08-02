@@ -13,4 +13,5 @@
 * [11. Treatment of Psychological Disorders](11. Treatment of Psychological Disorders.md)
 * [12. Social Psychology](12. Social Psychology.md)
 * [13. Statistics, Tests and Measurements](13. Statistics, Tests and Measurements.md)
-* [Sample Exam](Sample Exam.md)
+* [\[Official Study Guide\] Sample Exam]([Official Study Guide] Sample Exam.md)
+* [\[Peterson\] Practice Test]([Peterson] Practice Test.md)
