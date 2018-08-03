@@ -341,3 +341,139 @@
 - pathogen: a bacterium, virus, or other microorganism that can cause disease
 
 # Question 61
+
+![image-20180803152911171](assets/image-20180803152911171.png)
+
+![Image result for Jean Piaget cognitive](assets/1455597.jpg)
+
+![Image result for Jean Piaget cognitive](assets/2c1592bfb8de7d4007ac54fa0a8d2a11.png)
+
+# Question 63
+
+![image-20180803153303881](assets/image-20180803153303881.png)
+
+- Secondary sex characteristics include the deepening of the voice in males, the growth of breasts in females, and the growth of body hair in both sexes. They are not essential for reproduction.
+
+# Question 64
+
+![image-20180803153322788](assets/image-20180803153322788.png)
+
+![Image result for cause of anorexia](assets/causes2.gif)
+
+- Eating disorders result from a complex interaction of social and psychological factors.
+
+# Question 65
+
+![image-20180803153527628](assets/image-20180803153527628.png)
+
+- Adolescents struggle with developing an identity of their own (positive outcome) vs. failing to establish a unique identity (confusion).
+
+![Image result for eriksonâs theory of psychosocial development](https://www.simplypsychology.org/psychosocial-stages.png)
+
+![Image result for eriksonâs theory of psychosocial development](assets/maxresdefault-20180803153651091.jpg)
+
+# Question 70
+
+![image-20180803153750243](assets/image-20180803153750243.png)
+
+- The defense mechanism of identification protects the ego from unacceptable thoughts by identifying with the same-sex parent and giving up the desire to possess the opposite-sex parent.
+
+![Image result for Oedipus complex](assets/1280-510968-oedipus-complex.png) 
+
+![image-20180803154059445](assets/image-20180803154059445.png)
+
+# Question 71
+
+![image-20180803154133642](assets/image-20180803154133642.png)
+
+- Neo-Freudians
+	- Alfred Adler
+		- first major theorist to break away from Freud
+		- individual psychology; inferiority complex
+		- lack worth and don’t measure up to the standards of others or of society; our birth order shapes our personality
+	- Erik Erikson
+		- social relationships that are important at each stage of personality development
+		- Erikson’s Psychosocial Stages of Development
+	- Carl Jung
+		- analytical psychology
+		- balance opposing forces of conscious and unconscious thought, and experience within one’s personality
+		- The **collective unconscious** is a universal version of the personal unconscious, holding mental patterns, or memory traces, which are common to all of us
+		- extroversion and introversion
+	- Karen Horney
+		- each individual has the potential for self-realization and that the goal of psychoanalysis should be moving toward a healthy self rather than exploring early childhood patterns of dysfunction
+		- Horney also disagreed with the Freudian idea that girls have penis envy and are jealous of male biological features
+		- any jealousy is most likely culturally based, due to the greater privileges that males often have, meaning that the differences between men’s and women’s personalities are culturally based, not biologically based
+
+# Question 72
+
+![image-20180803155040212](assets/image-20180803155040212.png)
+
+- According to Carl Rogers, **unconditional positive regard** means accepting and valuing a person **regardless** of the person’s **behavior**.
+- **Social approval** is the positive evaluation of an individual or group in a **social** context.
+
+# Question 73
+
+![image-20180803155149469](assets/image-20180803155149469.png)
+
+- Social learning theory was developed by Albert Bandura; it emphasizes observational, or vicarious, learning—also known as modeling.
+
+![image-20180803155302406](assets/image-20180803155302406.png)
+
+![image-20180803155312084](assets/image-20180803155312084.png)
+
+# Question 74
+
+![image-20180803155329317](assets/image-20180803155329317.png)
+
+![Image result for types of conflict psychology](assets/conflicts-social-psychology-4-638.jpg)
+
+# Question 75
+
+![image-20180803155625487](assets/image-20180803155625487.png)
+
+- A sense of control is an effective buffer against stress. Social support is also important.
+
+![Image result for stress-resistant psychology](assets/personality-and-stress-7-638.jpg)
+
+![Image result for psychology personality types a b c d](assets/1200-318205-personality-types.jpg)
+
+# Question 76
+
+![image-20180803155915368](assets/image-20180803155915368.png)
+
+- Although not all mental disorders are biologically-based, many are, including schizophrenia, bi-polar disorder, some anxiety disorders, and depression in many people. Whether an individual with a biological predisposition actually develops a disorder depends on life experiences and coping skills.
+
+# Question 77
+
+![image-20180803155943774](assets/image-20180803155943774.png)
+
+- Schizophrenics tend to have an excess of dopamine in certain areas of the brain.
+
+![Image result for dopamine schizophrenia](assets/Dopamine-receptors.jpg)
+
+- dopamine: a chemical released by neurons (nerve cells) to send signals to other nerve cells
+- thorazine: primarily used to treat psychotic disorders such as schizophrenia
+- noradrenaline: an organic chemical in the catecholamine family that functions in the brain and body as a hormone and neurotransmitter
+- endorphins: reduce your perception of pain
+- serotonin: help regulate mood and social behavior, appetite and digestion, sleep, memory, and sexual desire and function
+
+# Question 78
+
+![image-20180803160508654](assets/image-20180803160508654.png)
+
+- schizoid: emotional aloofness and solitary habits
+- hysterical: deriving from or affected by uncontrolled extreme emotion
+- manic: showing wild and apparently deranged excitement and energy
+- anal-retentive: pays such attention to detail that it becomes an obsession and may be an annoyance to others
+
+# Question 79
+
+![image-20180803161058910](assets/image-20180803161058910.png)
+
+- Anxiety disorders are the most frequently occurring disorders and include generalized anxiety disorder, phobias, PTSD (post-traumatic stress disorder), and obsessive-compulsive disorder. Mood disorders are the second most frequently occurring disorders.
+
+# Question 80
+
+![image-20180803161127496](assets/image-20180803161127496.png)
+
+![image-20180803161209255](assets/image-20180803161209255.png)
