@@ -477,3 +477,57 @@
 ![image-20180803161127496](assets/image-20180803161127496.png)
 
 ![image-20180803161209255](assets/image-20180803161209255.png)
+
+# Question 83
+
+![image-20180803164324760](assets/image-20180803164324760.png)
+
+- Although modern psychodynamic therapists still regard early experience and unconscious conflicts as impor-tant, they are more likely to give weight to the patient’s social and cultural environment.
+
+# Question 85
+
+![image-20180803164400771](assets/image-20180803164400771.png)
+
+- In aversive conditioning, the therapist attempts to change the client’s **behavior** by pairing an undesirable behavior with an aversive (unpleasant) stimulus to decrease the behavior’s frequency.
+
+![Image result for behavior therapy](assets/cognitive-behavioral-therapy-cbt-6-638.jpg)
+
+# Question 86
+
+![image-20180803164552589](assets/image-20180803164552589.png)
+
+- Systematic desensitization consists of constructing a fear hierarchy and gradually having the client progress through the hierarchy while practicing relaxation, which is incompatible with fear.
+
+# Question 91
+
+![image-20180803164638441](assets/image-20180803164638441.png)
+
+- A source with low credibility is not very persuasive.
+
+# Question 93
+
+![image-20180803164817082](assets/image-20180803164817082.png)
+
+- A self-fulfilling prophecy is a prediction that comes true not necessarily because it was correct, but more because it was made in the first place. Once people have an expectation about events, they tend to engage in behavior that increases the probability of the event’s occurrence.
+
+![Image result for self-fulfilling prophecy](assets/108301-106029.jpg)
+
+# Question 95
+
+![image-20180803164946728](assets/image-20180803164946728.png)
+
+![Image result for milgram experiment percentage](assets/CNX_Psych_12_04_milgram.jpg)
+
+# Question 96
+
+![image-20180803165038493](assets/image-20180803165038493.png)
+
+- Social loafing is most likely when there is no individual accountability of effort and all share equally in the outcome. Loafing is less likely as goals become more compelling.
+
+![Image result for social loafing in psychology](assets/social-loafing.jpg)
+
+# Question 97
+
+![image-20180803165248482](assets/image-20180803165248482.png)
+
+![Image result for frustration and aggression](assets/maxresdefault-20180803165418673.jpg)
