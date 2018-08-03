@@ -1,3 +1,7 @@
+<a href="exams/[Peterson] Practice Test Question.pdf" target="_blank">Practice Test Question</a>
+
+<a href="exams/[Peterson] Practice Test Solution.pdf" target="_blank">Practice Test Solution</a>
+
 # Question 1
 
 ![image-20180802163701790](assets/image-20180802163701790.png)

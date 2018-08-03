@@ -1,3 +1,5 @@
+<a href="exams/[Official Study Guide] Sample Exam.pdf" target="_blank">Sample Exam</a>
+
 # Question 1
 
 ![image-20180801152102610](assets/image-20180801152102610.png)
