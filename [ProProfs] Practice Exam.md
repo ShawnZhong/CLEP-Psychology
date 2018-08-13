@@ -302,4 +302,72 @@
 
 ![Image result for group polarization](assets/608743-34331-13.jpg)
 
- 
+# Question 82 
+
+![image-20180813213834892](assets/image-20180813213834892.png)
+
+- In psychology, heuristics are simple, efficient rules which people often use to form judgments and make decisions.
+- They are mental shortcuts that usually involve focusing on one aspect of a complex problem and ignoring others.
+
+# Question 85
+
+![image-20180813214000619](assets/image-20180813214000619.png)
+
+![Image result for james lange theory](assets/James-Lange_Theory_of_Emotions.jpg)
+
+![Image result for emotion theory](assets/theoriesofemotions-550x502-4167656.jpg)
+
+# Question 87
+
+![image-20180813214235616](assets/image-20180813214235616.png)
+
+![Image result for eeg alpha wave](assets/eeg-waves-normal.jpeg)
+
+# Question 90
+
+![image-20180813214502154](assets/image-20180813214502154.png)
+
+![Image result for erikson's stages of development](assets/erikerikson.jpg)
+
+# Question 92
+
+![image-20180813214715512](assets/image-20180813214715512.png)
+
+- The framing effect
+
+	- The framing effect is an example of cognitive **bias**, in which people react to a particular choice in different ways depending on how it is presented
+
+	![Image result for The framing effect](assets/1200-611101-41705914.jpg)
+
+- Belief perseverance
+
+	- Belief perseverance, also known as belief persistence, is the inability of people to change their own belief even upon receiving new information or facts that contradict or refute that belief.
+
+	![Image result for belief perseverance](assets/1200-607988-19592216.jpg)
+
+- Availability heuristic
+
+	- The availability heuristic is a mental shortcut that relies on immediate examples that come to a given person's mind when evaluating a specific topic, concept, method or decision.
+
+	![Image result for availability heuristic](assets/availability-heuristic-4168234.jpg)
+
+- Representative heuristic
+
+	- The representativeness heuristic is used when making judgments about the probability of an event under uncertainty
+
+	![Image result for representative heuristic](assets/The+Representative+Heuristic.jpg)
+
+# Question 93
+
+![image-20180813215240623](assets/image-20180813215240623.png)
+
+![image-20180813215448904](assets/image-20180813215448904.png)
+
+![image-20180813215510874](assets/image-20180813215510874.png)
+
+![image-20180813215542153](assets/image-20180813215542153.png)
+
+![image-20180813215603479](assets/image-20180813215603479.png)
+
+![image-20180813215632152](assets/image-20180813215632152.png)
+
