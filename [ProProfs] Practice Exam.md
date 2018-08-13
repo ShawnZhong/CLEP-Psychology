@@ -104,3 +104,98 @@
 - Feature detection theory
 
 	- The nervous system sorts or filters complex natural stimuli in order to extract behaviorally relevant cues that have a high probability of being associated with important objects or organisms in their environment, as opposed to irrelevant background or noise.![Image result for feature detection theory](assets/introductory-psychology-sensation-perception-vision-22-728.jpg)
+
+# Question 21
+
+![image-20180813171236712](assets/image-20180813171236712.png)
+
+![Image result for stimulus energy neural message transduction](assets/slide_3.jpg) 
+
+# Question 22
+
+![image-20180813171422128](assets/image-20180813171422128.png)
+
+- The Barnum effect
+
+  - a common psychological phenomenon whereby individuals give high accuracy ratings to descriptions of their personality that supposedly are tailored specifically to them, that are in fact vague and general enough to apply to a wide range of people
+
+  	![Image result for The Barnum effect](assets/chapter-3-critical-thinking-14-728.jpg)
+
+  	![Image result for The Barnum effect](assets/poc2kmku3l.jpg)
+
+- Locus of control
+
+	- A person with an internal locus of control believes that he or she can influence events and their outcomes, while someone with an external locus of control blames outside forces for everything.
+
+	![Image result for Locus of control](assets/preview.jpeg)
+
+- The self-serving bias
+
+	- A self-serving bias is any cognitive or perceptual process that is distorted by the need to maintain and enhance self-esteem, or the tendency to perceive oneself in an overly favorable manner.
+
+	![Image result for the self-serving bias](assets/1200-610405-33553724.jpg)
+
+- Reciprocal determinism
+
+	- a person's behavior both influences and is influenced by personal factors and the social environment
+
+	![Image result for reciprocal determinism](assets/1200-415523-reciprocal-determinism-4151983.jpg)
+
+# Question 23
+
+![image-20180813172105565](assets/image-20180813172105565.png)
+
+- Dissociative Identity Disorder = Multiple Personality Disorder
+
+# Question 25
+
+![image-20180813173154188](assets/image-20180813173154188.png)
+
+# Question 26
+
+![image-20180813173747257](assets/image-20180813173747257.png)
+
+![defense mechanisms](assets/defense-mechanisms.jpg)
+
+# Question 27
+
+![image-20180813173944916](assets/image-20180813173944916.png)
+
+- Generalized anxiety disorder (or GAD) is characterized by excessive, exaggerated anxiety and worry about everyday life events with no obvious reasons for worry.
+
+# Question 28
+
+![image-20180813174042778](assets/image-20180813174042778.png)
+
+- Zygote: a diploid cell resulting from the fusion of two haploid gametes; a fertilized ovum.
+- Embryo: the early developmental stage of an animal while it is in the egg or within the uterus of the mother
+- Fetus: an unborn offspring of a mammal, in particular an unborn human baby more than eight weeks after conception
+
+# Question 32
+
+![image-20180813174333272](assets/image-20180813174333272.png)
+
+- Conversion disorder is a mental condition in which a person has blindness, paralysis, or other nervous system (neurologic) symptoms that cannot be explained by medical evaluation.
+
+	![Image result for conversion disorder](assets/aid7896672-v4-728px-Help-Loved-Ones-with-Conversion-Disorder-Step-12.jpg)
+
+# Question 34
+
+![image-20180813174510446](assets/image-20180813174510446.png)
+
+![Image result for positive vs negative reinforcement](assets/positive-negative-reinforcement.png)
+
+# Question 38
+
+![image-20180813174750071](assets/image-20180813174750071.png)
+
+![Image result for cone rod](assets/Figure_36_05_06.jpg)
+
+# Question 40
+
+![image-20180813174855419](assets/image-20180813174855419.png)
+
+- **Thorazine** is used to manage and reduce hallucinations, **delusions**, extreme emotions, and other related symptoms that generally accompany schizophrenia
+
+![Image result for thorazine](assets/wpid-unnamed-15-jpg1.jpeg)
+
