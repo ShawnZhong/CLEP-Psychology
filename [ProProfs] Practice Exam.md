@@ -199,3 +199,52 @@
 
 ![Image result for thorazine](assets/wpid-unnamed-15-jpg1.jpeg)
 
+# Question 41
+
+![image-20180813175145346](assets/image-20180813175145346.png)
+
+![Image result for big five personality](assets/f706b41679a9594213b551e6fa25c16e.png)
+
+# Question 45
+
+![image-20180813205718573](assets/image-20180813205718573.png)
+
+![Image result for kohlberg's theory of moral development](assets/123.jpg)
+
+# Question 51
+
+![image-20180813210122185](assets/image-20180813210122185.png)
+
+# Question 55
+
+![image-20180813210353665](assets/image-20180813210353665.png)
+
+![Image result for achievement test](assets/aguiar-ap-intelligence-and-testing-60-638.jpg)
+
+![Image result for achievement test](assets/achievement-tests-12-638.jpg)
+
+# Question 57
+
+![image-20180813210526342](assets/image-20180813210526342.png)
+
+- Iconic memory is part of the **visual memory system** which also includes long-term memory and visual short-term memory. It is a type of sensory memory that lasts very briefly before quickly fading.
+- Implicit memory is one of the two main types of **long-term human memory**. It is acquired and used **unconsciously**, and can affect thoughts and behaviours.
+- Echoic memory is the sensory memory register specific to auditory information (**sounds**).
+- A flashbulb memory is a highly **detailed**, exceptionally **vivid** '**snapshot**' of the **moment and circumstances** in which a piece of **surprising and consequential** (or emotionally arousing) news was heard.
+- Working memory is a cognitive system with a limited capacity that is responsible for **temporarily holding information** available for **processing**
+
+# Question 60
+
+![image-20180813210945627](assets/image-20180813210945627.png)
+
+![Image result for sexual response cycle refractory period](assets/traditional-sexual-response-cycle.jpg)
+
+# Question 61
+
+![image-20180813211309317](assets/image-20180813211309317.png)
+
+![Image result for schizophrenia types](assets/schizophrenia-3-728.jpg)
+
+![image-20180813211516884](assets/image-20180813211516884.png)
+
+![image-20180813211532563](assets/image-20180813211532563.png)
