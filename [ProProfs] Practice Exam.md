@@ -248,3 +248,58 @@
 ![image-20180813211516884](assets/image-20180813211516884.png)
 
 ![image-20180813211532563](assets/image-20180813211532563.png)
+
+# Question 64
+
+![image-20180813211711915](assets/image-20180813211711915.png)
+
+# Question 66
+
+![image-20180813211905535](assets/image-20180813211905535.png)
+
+![Image result for cross-sectional study](assets/fig_cross.png)
+
+# Question 70
+
+![image-20180813212058276](assets/image-20180813212058276.png)
+
+![Image result for vicarious learning](assets/albert-banduras-social-cognitive-theory-11-638.jpg)
+
+# Question 72
+
+![image-20180813212303547](assets/image-20180813212303547.png)
+
+- **Emotional attachment**/**bonding** is the deep, enduring **emotional connection** between ourselves and specific people that we know and that are important to us.
+
+![Image result for attachment psychology](assets/attachment-conditioning.jpg)
+
+![Image result for attachment psychology](assets/2150818.jpg)
+
+# Question 73
+
+![image-20180813212543504](assets/image-20180813212543504.png)
+
+![table showing the different types of validity](assets/validity-4166877.jpg)
+
+- Face validity: the degree to which a procedure, especially a psychological test or assessment, appears effective in terms of its stated aims.
+- Predictive validity: the extent to which a score on a scale or test predicts scores on some criterion measure
+- Content validity: how well an instrument (i.e. a test or questionnaire) measures a theoretical construct
+- Construct validity: the degree to which a test measures what it claims, or purports, to be measuring
+
+# Question 74
+
+![image-20180813213235458](assets/image-20180813213235458.png)
+
+# Question 78
+
+![image-20180813213443429](assets/image-20180813213443429.png)
+
+![Fundamental Attribution Error Tendency to attribute other peopleâs behaviors to their dispositional factors while attribut...](assets/how-to-cross-the-street-cognitive-impacts-45-1024.jpg)
+
+# Qusetion 79
+
+![image-20180813213705147](assets/image-20180813213705147.png)
+
+![Image result for group polarization](assets/608743-34331-13.jpg)
+
+ 
