@@ -51,7 +51,50 @@
 
 ![image-20180814155500624](assets/image-20180814155500624.png)
 
-# Question 20
+# Question 21
 
-![image-20180814155549656](assets/image-20180814155549656.png)
+![image-20180815231924495](assets/image-20180815231924495.png)
+
+# Question 22
+
+![image-20180815232018608](assets/image-20180815232018608.png)
+
+# Question 23
+
+![image-20180815232147306](assets/image-20180815232147306.png)
+
+# Question 26
+
+![image-20180815232309166](assets/image-20180815232309166.png)
+
+- Cognitive behavioural therapy (CBT) is a talking therapy that can help you manage your problems by changing the way you think and behave.
+- It's most commonly used to treat anxiety and depression, but can be useful for other mental and physical health problems.
+
+# Question 29
+
+![image-20180815232506318](assets/image-20180815232506318.png)
+
+![Image result for cochlea inner ear](assets/img.jpg)
+
+# Question 30
+
+![image-20180815232633834](assets/image-20180815232633834.png)
+
+![Image result for vision development in infants depth](assets/Babies+Learn+Through+Their+Senses+-Vision.jpg)
+
+# Question 32
+
+![image-20180815232853792](assets/image-20180815232853792.png)
+
+![Image result for instinctive drift](assets/Instinctive+Drift+Why+dont+people+always+do+what+they+are+supposed+to.jpg)
+
+# Question 37
+
+![image-20180815233119001](assets/image-20180815233119001.png)
+
+![Image result for flashbulb memories](assets/Flashbulb.jpg)
+
+# Question 40
+
+![image-20180815233348464](assets/image-20180815233348464.png)
 
