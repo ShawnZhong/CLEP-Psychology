@@ -212,3 +212,70 @@
 
 ![Image result for piagetâs theory of cognitive development](assets/0d0753f9a0f04bb20dcbadb3c0cf4fc3.gif)
 
+# Question 82
+
+![image-20180816002804541](assets/image-20180816002804541.png)
+
+- catecholamines: hormones made by the adrenal glands; part of the fight-or-flight response
+- endorphins: Stress and pain are the two most common factors leading to the release of endorphins- 
+- corticosteriods: used to provide relief for inflamed areas of the body; lessen swelling, redness, itching, and allergic reactions.
+- epinephrine: Strong emotions such as fear or anger cause epinephrine to be released into the bloodstream, which causes an increase in heart rate, muscle strength, blood pressure, and sugar metabolism
+
+# Question 83
+
+![image-20180816003121620](assets/image-20180816003121620.png)
+
+# Question 85
+
+![image-20180816003229970](assets/image-20180816003229970.png)
+
+- Albert Bandura: social learning theory
+- Erik Erikson: stages of psychosocial development
+
+# Question 86
+
+![image-20180816003444884](assets/image-20180816003444884.png)
+
+![Image result for limbic system function](assets/e8af68fda82755e4fc32de5d4f9a7d55-4350932.jpg)
+
+# Question 87
+
+![image-20180816003651788](assets/image-20180816003651788.png)
+
+![Image result for acetylcholine Alzheimer](assets/neuropharmacology-acetylcholine-alzheimers-10-728.jpg)
+
+# Question 88
+
+![image-20180816003822572](assets/image-20180816003822572.png)
+
+![Image result for Cortisol](assets/cortisolfb.png)
+
+# Question 90
+
+![image-20180816004037658](assets/image-20180816004037658.png)
+
+# Question 91
+
+![image-20180816004143424](assets/image-20180816004143424.png)
+
+# Question 94
+
+![image-20180816004302261](assets/image-20180816004302261.png)
+
+# Question 96
+
+![image-20180816004428740](assets/image-20180816004428740.png)
+
+![Image result for mmpi test](assets/slide_2.jpg)
+
+# Question 97
+
+![image-20180816004623641](assets/image-20180816004623641.png)
+
+![Image result for hypothesis statement](assets/lean-ux-ux-strat-from-ux-strat-conference-september-2013-32-638.jpg)
+
+# Question 99
+
+![image-20180816004732201](assets/image-20180816004732201.png)
+
+![Image result for criterion validity](assets/validity-its-types-measurement-factors-7-638.jpg)
