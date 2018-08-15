@@ -98,3 +98,59 @@
 
 ![image-20180815233348464](assets/image-20180815233348464.png)
 
+# Question 41
+
+![image-20180815233610249](assets/image-20180815233610249.png)
+
+- Semantic memory refers to general world knowledge that we have accumulated throughout our lives.
+
+# Question 42
+
+![image-20180815234121401](assets/image-20180815234121401.png)
+
+# Question 46
+
+![image-20180815234328860](assets/image-20180815234328860.png)
+
+# Question 47
+
+![image-20180815234703348](assets/image-20180815234703348.png)
+
+# Question 49
+
+![image-20180815234753018](assets/image-20180815234753018.png)
+
+# Question 51
+
+![image-20180815234856714](assets/image-20180815234856714.png)
+
+# Question 52
+
+![image-20180815234935131](assets/image-20180815234935131.png)
+
+![Image result for primary emotion](assets/emotions.jpg)
+
+# Question 53
+
+![image-20180815235102716](assets/image-20180815235102716.png)
+
+# Question 54
+
+![image-20180815235353494](assets/image-20180815235353494.png)
+
+![Image result for Blunted emotion](assets/1200-604812-blunted-affect-vs-constricted-affect.jpg)
+
+# Question 56
+
+![image-20180815235548922](assets/image-20180815235548922.png)
+
+![Image result for bowlby attachment theory](assets/bowlbys-theory-of-attachment-2-638.jpg)
+
+# Question 57
+
+![image-20180815235704184](assets/image-20180815235704184.png)
+
+# Question 60
+
+![image-20180816000014147](assets/image-20180816000014147.png)
+
