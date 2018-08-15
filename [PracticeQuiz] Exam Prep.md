@@ -154,3 +154,61 @@
 
 ![image-20180816000014147](assets/image-20180816000014147.png)
 
+- The aim of **minimisation** is to **minimise** the imbalance between the number of patients in each treatment group over a number of factors.
+
+# Question 63
+
+![image-20180816000222331](assets/image-20180816000222331.png)
+
+# Question 65
+
+![image-20180816000326842](assets/image-20180816000326842.png)
+
+![Image result for tongue, throat, cheeks and mouth roof taste receptor](assets/Where+are+these+buds+There+are+approximately+100000+taste+buds.jpg)
+
+# Question 66
+
+![image-20180816000545541](assets/image-20180816000545541.png)
+
+# Question 70
+
+![image-20180816000742760](assets/image-20180816000742760.png)
+
+![Image result for Ekman 6 emotions](assets/ekman-6-basic-baby-emotions.jpg)
+
+# Question 72
+
+![image-20180816000858516](assets/image-20180816000858516.png)
+
+# Question 73
+
+![image-20180816000938382](assets/image-20180816000938382.png)
+
+![image-20180816001108592](assets/image-20180816001108592.png)
+
+![Image result for dialectical inductive deductive reasoning](assets/main-qimg-ad97ab4b9463a8a23d15614c291f2c90.png)
+
+# Question 76
+
+![image-20180816001324966](assets/image-20180816001324966.png)
+
+![Image result for components of attitude](assets/organisational-attitude-6-638.jpg)
+
+![Image result for components of attitude](assets/hqdefault.jpg)
+
+# Question 77
+
+![image-20180816001533004](assets/image-20180816001533004.png)
+
+![Image result for self-serving bias](assets/1200-610405-33553724-20180816001559346.jpg)
+
+# Question 78
+
+![image-20180816001726640](assets/image-20180816001726640.png)
+
+# Question 79
+
+![image-20180816001841519](assets/image-20180816001841519.png)
+
+![Image result for piagetâs theory of cognitive development](assets/0d0753f9a0f04bb20dcbadb3c0cf4fc3.gif)
+
